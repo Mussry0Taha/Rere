@@ -21,5 +21,5 @@ document.addEventListener("DOMContentLoaded", function () {
     });
     
     const summaryText = document.getElementById("summary-text");
-    summaryText.textContent = 'I guess if i go on And on to praise you, the list will not be enough.';
+    summaryText.textContent = 'I guess if i go on And on to praise you, the list will not be enough 🫑🫑🫑.';
     })
