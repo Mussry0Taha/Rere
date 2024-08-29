@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "i guess your passion for hobbies Aslo should be inculded",
         "obviously your intelligence",
         "Not to forget the outstanding sense of humor u got ",
-        "The way she loves me unconditionally."
+        "The way u like me unconditionally."
     ];
 
     const listContainer = document.getElementById("likes-list");
